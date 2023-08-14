@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👩🏻‍💻 Tech set and tools:
 <p dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,sass" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,sass,git" style="max-width: 100%;">
   </a>
 </p>
 
