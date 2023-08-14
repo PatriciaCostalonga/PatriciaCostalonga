@@ -1,4 +1,5 @@
-### Hi there, I'm Patricia a Front-end developer with a diverse Design background 👋
+### Hi there, I'm Patricia 👋 
+### I'm a Front-end developer with a diverse Design background ⚡️
 
 <!--
 **PatriciaCostalonga/PatriciaCostalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
