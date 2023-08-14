@@ -16,5 +16,21 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Tech set and tools:
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/881333e2231b3b28137dacb877520b6f480a600c33828595f04709afceff89ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c7461696c77696e642c6a73" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=html,css,sass,js" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,sass" style="max-width: 100%;">
+  </a>
+</p>
+
+<p dir="auto">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,c#,php" style="max-width: 100%;">
+  </a>
+</p>
+
+<p dir="auto">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender" style="max-width: 100%;">
+  </a>
+</p>
 
