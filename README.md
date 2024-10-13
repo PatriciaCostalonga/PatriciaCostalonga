@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,cs,php,wordpress" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,cs,php,threejs" style="max-width: 100%;">
   </a>
 </p>
 
